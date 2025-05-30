@@ -3,7 +3,7 @@ About ollama-python-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ollama-python-feedstock/blob/main/LICENSE.txt)
 
-Home: https://ollama.ai
+Home: https://github.com/ollama/ollama-python
 
 Package license: MIT
 
@@ -143,5 +143,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@apmorton](https://github.com/apmorton/)
 * [@asmeurer](https://github.com/asmeurer/)
 
