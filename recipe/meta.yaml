@@ -1,5 +1,5 @@
 {% set name = "ollama" %}
-{% set version = "0.5.4" %}
+{% set version = "0.6.0" %}
 {% set python_min = "3.9" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/ollama-{{ version }}.tar.gz
-  sha256: 75857505a5d42e5e58114a1b78cc8c24596d8866863359d8a2329946a9b6d6f3
+  sha256: da2b2d846b5944cfbcee1ca1e6ee0585f6c9d45a2fe9467cbcd096a37383da2f
 
 build:
   noarch: python
